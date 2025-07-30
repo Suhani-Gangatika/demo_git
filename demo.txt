@@ -2,3 +2,5 @@ Welcome to angular cohurt
 This is second commit
 This is again second 
 Changes from s_branch 
+
+Pulling the text
